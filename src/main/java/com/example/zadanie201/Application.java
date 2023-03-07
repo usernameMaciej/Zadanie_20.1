@@ -1,4 +1,4 @@
-package com.example.zadanie_201;
+package com.example.zadanie201;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

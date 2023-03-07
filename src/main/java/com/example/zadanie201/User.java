@@ -1,4 +1,4 @@
-package com.example.zadanie_201;
+package com.example.zadanie201;
 
 public class User {
     private String firstName;
